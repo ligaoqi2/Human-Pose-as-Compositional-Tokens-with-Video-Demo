@@ -3,7 +3,7 @@
 ## Result Demo
 <div align="center">
     <img src="demo/videodemo.png", width="600" alt><br>
-    Running Script Env Config 
+    Result demo 
 </div>
 
 ## Quick Start
